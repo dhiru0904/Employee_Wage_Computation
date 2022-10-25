@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777d3f70-6efd-4256-abe4-c4c3559d43e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWageComputation/employeewage/DailyEmployeeWage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmployeeWageComputation/employeewage/PresentOrAbsent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employeewage/DailyEmployeeWage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employeewage/PresentOrAbsent.java" beforeDir="false" />
-    </list>
+    <list default="true" id="777d3f70-6efd-4256-abe4-c4c3559d43e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
