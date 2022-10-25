@@ -1,4 +1,4 @@
-package employeewage;
+package Employee;
 
 public class PresentOrAbsent {
     public PresentOrAbsent() {
@@ -7,7 +7,7 @@ public class PresentOrAbsent {
 
     public static void main(String[] args) {
 
-        //Initializing the constructor by creating the object of the class.
+        // constructor by creating the object of the class.
         PresentOrAbsent employee = new PresentOrAbsent();
         System.out.println();
 
@@ -15,7 +15,8 @@ public class PresentOrAbsent {
         double isPresent = 1;
         double randomCheck = (double)Math.floor((Math.random()*10)%2);
 
-        //Checking if the Employee is present!!!
+        //Checking if the Employee is present
+
         if (randomCheck == isPresent)
         {
             System.out.println("Employee is present");

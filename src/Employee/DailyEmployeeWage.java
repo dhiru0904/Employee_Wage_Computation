@@ -1,14 +1,14 @@
-package employeewage;
+package Employee;
 
 public class DailyEmployeeWage {
-    public  DailyEmployeeWage() {
-        System.out.println("Welcome to Employee Wage Program...**");
+    public DailyEmployeeWage() {
+        System.out.println("Welcome to Employee Wage Computation Program...**");
     }
 
     public static void main(String[] args) {
 
         //Initializing the constructor by creating the object of the class.
-        DailyEmployeeWage employee = new  DailyEmployeeWage();
+        DailyEmployeeWage employee = new DailyEmployeeWage();
         System.out.println();
 
         //Declaring the variables.
