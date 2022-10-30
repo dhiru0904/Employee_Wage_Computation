@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="777d3f70-6efd-4256-abe4-c4c3559d43e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/UseCase9/EmpWageBuilderObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase10/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase10/EmpWageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase10/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase11/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase11/ComputeEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase11/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase11/EmployeeWageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase12/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase12/ComputeEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase12/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase12/EmployeeWageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase13/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase13/ComputeEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase13/EmpWageBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase13/EmployeeWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase14/CompanyEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase14/ComputeEmpWage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase14/EmpWageBuilder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseCase14/EmployeeWage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,33 +44,41 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2GcMKb3cCLsUE3SIJcl9ftBQ5dU" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/RAJNIKANT/IdeaProjects/EmployeeWageComputation/src/Employee&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RAJNIKANT/IdeaProjects/EmployeeWageComputation/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src\Employee" />
+      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src" />
+      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src\UseCase14" />
+      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src\UseCase13" />
+      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src\UseCase12" />
+      <recent name="C:\Users\RAJNIKANT\IdeaProjects\EmployeeWageComputation\src\UseCase11" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="UseCase11" />
       <recent name="Employee" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmpWageBuilderObject">
-    <configuration name="EmpWageBuilderObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UseCase9.EmpWageBuilderObject" />
+  <component name="RunManager" selected="Application.UseCase14.EmployeeWage">
+    <configuration name="EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase10.EmployeeWage" />
       <module name="EmployeeWageComputation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UseCase9.*" />
+          <option name="PATTERN" value="UseCase10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleCompany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.MultipleCompany" />
+    <configuration name="UseCase11.EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase11.EmployeeWage" />
       <module name="EmployeeWageComputation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Employee.*" />
+          <option name="PATTERN" value="UseCase11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefactorMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.RefactorMethod" />
+    <configuration name="UseCase12.EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase12.EmployeeWage" />
       <module name="EmployeeWageComputation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Employee.*" />
+          <option name="PATTERN" value="UseCase12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.SwitchCase" />
+    <configuration name="UseCase13.EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase13.EmployeeWage" />
       <module name="EmployeeWageComputation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Employee.*" />
+          <option name="PATTERN" value="UseCase13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WageForMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Employee.WageForMonth" />
+    <configuration name="UseCase14.EmployeeWage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UseCase14.EmployeeWage" />
       <module name="EmployeeWageComputation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Employee.*" />
+          <option name="PATTERN" value="UseCase14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmpWageBuilderObject" />
-        <item itemvalue="Application.MultipleCompany" />
-        <item itemvalue="Application.WageForMonth" />
-        <item itemvalue="Application.SwitchCase" />
-        <item itemvalue="Application.RefactorMethod" />
+        <item itemvalue="Application.UseCase14.EmployeeWage" />
+        <item itemvalue="Application.UseCase12.EmployeeWage" />
+        <item itemvalue="Application.UseCase11.EmployeeWage" />
+        <item itemvalue="Application.UseCase13.EmployeeWage" />
+        <item itemvalue="Application.EmployeeWage" />
       </list>
     </recent_temporary>
   </component>
